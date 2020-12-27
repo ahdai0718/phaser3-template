@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+enum AuthType {
+  AT_NONE = 0;
+  AT_JWT = 1;
+  AT_OAUTH = 2;
+}
+
+message Auth {
+  AuthType type = 1;
+  string id = 2;
+  string secret = 3;
+  string grant_type = 4;
+  string scope = 5;
+}

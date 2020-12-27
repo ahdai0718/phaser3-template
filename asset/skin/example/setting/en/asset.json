@@ -1,0 +1,45 @@
+{
+  "image": [
+    {
+      "name": "boot_background",
+      "urlList": ["image/boot/background.png"]
+    },
+    {
+      "name": "company_logo",
+      "urlList": ["image/boot/company_logo.png"]
+    },
+    {
+      "name": "space",
+      "urlList": ["image/space_x3.png"]
+    },
+    {
+      "name": "phaser3-logo",
+      "urlList": ["image/phaser3-logo.png"]
+    },
+    {
+      "name": "particle",
+      "urlList": ["image/particle.png"]
+    },
+    {
+      "name": "avatar_background",
+      "urlList": ["image/avatar_background.png"]
+    }
+  ],
+  "sprite_sheet": [
+    {
+      "name": "gui",
+      "path": "spritesheet/gui/",
+      "urlList": ["GUI.json"]
+    }
+  ],
+  "bitmap_font": [],
+  "audio": [],
+  "spine": [
+    {
+      "name": "dragon",
+      "path": "spine/dragon",
+      "urlList": ["dragon.json"],
+      "atlasUrlList": ["dragon.atlas"]
+    }
+  ]
+}

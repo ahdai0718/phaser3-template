@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package pb;
+
+import "game/chinese_poker_13/card_number.proto";
+import "game/chinese_poker_13/card_type.proto";
+import "game/chinese_poker_13/card.proto";
+import "game/chinese_poker_13/game.proto";
+import "game/chinese_poker_13/pattern_type.proto";
+import "game/chinese_poker_13/player_deck.proto";
+import "game/chinese_poker_13/room.proto";
+import "game/chinese_poker_13/round.proto";
+import "game/chinese_poker_13/player_deck_compare_result.proto";

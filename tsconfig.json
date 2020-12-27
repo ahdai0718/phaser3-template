@@ -1,0 +1,15 @@
+{
+  "extends": "./node_modules/gts/tsconfig-google.json",
+  "compilerOptions": {
+    "lib": ["es5", "dom", "scripthost"],
+    "rootDir": ".",
+    "outDir": "./dist"
+  },
+  "files": [
+    "./node_modules/phaser/types/SpineFile.d.ts",
+    "./node_modules/phaser/types/SpineGameObject.d.ts",
+    "./node_modules/phaser/types/SpinePlugin.d.ts"
+  ],
+  "include": ["src"],
+  "exclude": ["assets", "build", "dist"]
+}

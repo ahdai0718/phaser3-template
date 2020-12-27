@@ -1,0 +1,14 @@
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+build
+node_modules
+index.html
+package-lock.json
+.gradle
+android
+ios
+configs.json
+dist
+configs.app.json
+capacitor.config.json

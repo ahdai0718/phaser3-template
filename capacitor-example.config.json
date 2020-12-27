@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "Phaser3Template",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build/app/release",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1
+    }
+  },
+  "cordova": {}
+}

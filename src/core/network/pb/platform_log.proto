@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+import "gen_bq_schema/bq_table.proto";
+import "gen_bq_schema/bq_field.proto";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+message PlatformLog {
+  option (gen_bq_schema.bigquery_opts).table_name = "platform_log";
+  string transaction_id = 1 [ (gen_bq_schema.bigquery) = {require : true} ];
+  int64 player_sn = 2 [ (gen_bq_schema.bigquery) = {require : true} ];
+  string player_id = 3 [ (gen_bq_schema.bigquery) = {require : true} ];
+  string player_name = 4;
+  string player_id_at_platform = 5;
+  string platform = 6 [ (gen_bq_schema.bigquery) = {require : true} ];
+  int64 action = 7;
+  int64 credit = 8;
+  string currency = 9;
+  double amount = 10;
+  double balance = 11;
+  int64 status = 12;
+  string error_msg = 13;
+  int64 created_time = 14 [ (gen_bq_schema.bigquery) = {require : true} ];
+}

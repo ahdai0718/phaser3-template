@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+import "auth.proto";
+
+message PlatformPlayer {
+  string id = 1;
+  int64 sn = 2;
+  string name = 3;
+  string currency = 4;
+  string language = 5;
+  int64 credit = 6;
+  double balance = 7;
+  string id_at_platform = 8;
+  string access_token = 9;
+  string display_name = 10;
+  string platform = 11;
+}
+
+message PlatformProvider {
+  string factory_name = 1;
+  string name = 2;
+  string aes_key = 3;
+  string aes_iv = 4;
+  string api_url_base = 5;
+  string public_ip_address = 6;
+  string run_mode = 7;
+  Auth auth = 8;
+}
+
+message PlatformProviderAPIPath {
+  string oauth_access_token = 1;
+  string player_token_validate = 2;
+  string player_info = 3;
+  string player_bet_place = 4;
+  string player_bet_settle = 5;
+  string player_transaction_lock = 6;
+  string player_transaction_cancel = 7;
+}

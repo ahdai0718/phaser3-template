@@ -1,0 +1,22 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "player1",
+      "url": "http://localhost:8765/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF5ZXJfaWQiOiIxMDAxIn0.JfJpi8I8IknQiMS1Gc7i5kcx9DAtUZs3XBGOV4Go09E&platform=default&currency=CNY&language=en-US",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "player2",
+      "url": "http://localhost:8765/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF5ZXJfaWQiOiIxMDAyIn0.mA7ieAW0KZ5ASMxs_ZdFVh2F-AkPBmUj9eyBAwr9LC8&platform=default&currency=CNY&language=en-US",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}

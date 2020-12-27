@@ -1,0 +1,3402 @@
+{
+	"textures": [
+		{
+			"image": "GUI-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2015,
+				"h": 2040
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Casual Game GUI_Window - Wide.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 870
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 23,
+						"w": 1047,
+						"h": 826
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1047,
+						"h": 826
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Tall.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 870
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 23,
+						"w": 688,
+						"h": 826
+					},
+					"frame": {
+						"x": 1050,
+						"y": 1,
+						"w": 688,
+						"h": 826
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Misc - Scrollbar Background.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 11,
+						"w": 50,
+						"h": 618
+					},
+					"frame": {
+						"x": 1740,
+						"y": 1,
+						"w": 50,
+						"h": 618
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Button - Icon and Text - Blue.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 11,
+						"w": 264,
+						"h": 106
+					},
+					"frame": {
+						"x": 1740,
+						"y": 621,
+						"w": 264,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Setting.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 152,
+						"h": 158
+					},
+					"frame": {
+						"x": 1792,
+						"y": 1,
+						"w": 152,
+						"h": 158
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Attack.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1792,
+						"y": 161,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Base.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1792,
+						"y": 317,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Heart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 148,
+						"h": 132
+					},
+					"frame": {
+						"x": 1792,
+						"y": 473,
+						"w": 148,
+						"h": 132
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Misc - Scrollbar Indicator.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 70,
+						"h": 84
+					},
+					"frame": {
+						"x": 1942,
+						"y": 473,
+						"w": 70,
+						"h": 84
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Button - Icon and Text - Gray.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 11,
+						"w": 264,
+						"h": 106
+					},
+					"frame": {
+						"x": 1740,
+						"y": 729,
+						"w": 264,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Wide Dialog Box.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1800,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 17,
+						"w": 1716,
+						"h": 286
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 1716,
+						"h": 286
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Button - Icon and Text - Green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 11,
+						"w": 264,
+						"h": 106
+					},
+					"frame": {
+						"x": 1719,
+						"y": 837,
+						"w": 264,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Button - Icon and Text - Red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 280,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 11,
+						"w": 264,
+						"h": 106
+					},
+					"frame": {
+						"x": 1719,
+						"y": 945,
+						"w": 264,
+						"h": 106
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Chat.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1053,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Shield.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 4,
+						"w": 139,
+						"h": 152
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1053,
+						"w": 139,
+						"h": 152
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Energy.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 4,
+						"w": 108,
+						"h": 152
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1207,
+						"w": 108,
+						"h": 152
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Small.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 21,
+						"w": 688,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1361,
+						"w": 688,
+						"h": 438
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Loading Bar - Container.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1820,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 14,
+						"w": 1804,
+						"h": 136
+					},
+					"frame": {
+						"x": 1,
+						"y": 1209,
+						"w": 1804,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Loading Bar - Fill.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1820,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 11,
+						"w": 1716,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1117,
+						"w": 1716,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Loding Bar - Empty.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1820,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 11,
+						"w": 1716,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1801,
+						"w": 1716,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Close.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1347,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Avatar.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 7,
+						"w": 76,
+						"h": 146
+					},
+					"frame": {
+						"x": 1875,
+						"y": 1361,
+						"w": 76,
+						"h": 146
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Decrease.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1503,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Down Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1659,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Exit.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1719,
+						"y": 1815,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Medium Dialog Box.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1080,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 1002,
+						"h": 286
+					},
+					"frame": {
+						"x": 691,
+						"y": 1347,
+						"w": 1002,
+						"h": 286
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Background.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 600,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 15,
+						"w": 588,
+						"h": 136
+					},
+					"frame": {
+						"x": 691,
+						"y": 1635,
+						"w": 588,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Empty.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 362,
+						"h": 78
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1635,
+						"w": 362,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 362,
+						"h": 78
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1715,
+						"w": 362,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Red-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 362,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1881,
+						"w": 362,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Red-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 362,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 1961,
+						"w": 362,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Progress Bar - Yellow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 362,
+						"h": 78
+					},
+					"frame": {
+						"x": 365,
+						"y": 1881,
+						"w": 362,
+						"h": 78
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Switch Button - OFF.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 192,
+						"h": 76
+					},
+					"frame": {
+						"x": 365,
+						"y": 1961,
+						"w": 192,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Switch Button - ON.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 192,
+						"h": 76
+					},
+					"frame": {
+						"x": 559,
+						"y": 1961,
+						"w": 192,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Facebook.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 753,
+						"y": 1881,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Fire.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 909,
+						"y": 1881,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Google Plus.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1065,
+						"y": 1881,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Star Gray.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 156,
+						"h": 150
+					},
+					"frame": {
+						"x": 1221,
+						"y": 1881,
+						"w": 156,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Star Yellow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 156,
+						"h": 150
+					},
+					"frame": {
+						"x": 1379,
+						"y": 1881,
+						"w": 156,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Coin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 152,
+						"h": 152
+					},
+					"frame": {
+						"x": 1537,
+						"y": 1881,
+						"w": 152,
+						"h": 152
+					}
+				}
+			]
+		},
+		{
+			"image": "GUI-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2034,
+				"h": 2045
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Casual Game GUI_Window - Tall Popup.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 870
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 30,
+						"w": 616,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 616,
+						"h": 810
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Attribute - Ribbon Green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 900,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 850,
+						"h": 310
+					},
+					"frame": {
+						"x": 1,
+						"y": 813,
+						"w": 850,
+						"h": 310
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Attribute - Ribbon Orange.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 900,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 850,
+						"h": 310
+					},
+					"frame": {
+						"x": 619,
+						"y": 1,
+						"w": 850,
+						"h": 310
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Attribute - Ribbon Purple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 900,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 850,
+						"h": 310
+					},
+					"frame": {
+						"x": 619,
+						"y": 313,
+						"w": 850,
+						"h": 310
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Medium.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 640
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 21,
+						"w": 688,
+						"h": 602
+					},
+					"frame": {
+						"x": 853,
+						"y": 625,
+						"w": 688,
+						"h": 602
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Heart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 619,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Container - Profile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 480,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 18,
+						"w": 449,
+						"h": 181
+					},
+					"frame": {
+						"x": 1471,
+						"y": 1,
+						"w": 449,
+						"h": 181
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Home.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1471,
+						"y": 184,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Increase.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1471,
+						"y": 340,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Window - Popup.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 720,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 19,
+						"w": 629,
+						"h": 362
+					},
+					"frame": {
+						"x": 1,
+						"y": 1125,
+						"w": 629,
+						"h": 362
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Container - Item Shop.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 777,
+						"h": 206
+					},
+					"frame": {
+						"x": 632,
+						"y": 1229,
+						"w": 777,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Info.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1229,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Instagram.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1411,
+						"y": 1385,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Left Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1543,
+						"y": 496,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Like.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1627,
+						"y": 184,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Lock.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1627,
+						"y": 340,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Menu.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1543,
+						"y": 652,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Message.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1543,
+						"y": 808,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Music.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1543,
+						"y": 964,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Next Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 632,
+						"y": 1437,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Number.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 788,
+						"y": 1437,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Pause.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 944,
+						"y": 1437,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Picture.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1100,
+						"y": 1437,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Time.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 152,
+						"h": 152
+					},
+					"frame": {
+						"x": 1256,
+						"y": 1437,
+						"w": 152,
+						"h": 152
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Play.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1489,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Previous Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 1489,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Profile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 1489,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Reload.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 1489,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Right Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1410,
+						"y": 1541,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Settings.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1541,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Share.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1120,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Shopping Cart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1276,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Social.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1432,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Sound.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1722,
+						"y": 1588,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Star.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1699,
+						"y": 496,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Trophy.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1783,
+						"y": 184,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Twitter.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1783,
+						"y": 340,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Up Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1699,
+						"y": 652,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Gray_Button Gray - Video.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1699,
+						"y": 808,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Attack.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1699,
+						"y": 964,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Base.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1120,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Chat.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1723,
+						"y": 1276,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Close.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1878,
+						"y": 1432,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Decrease.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1878,
+						"y": 1588,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Down Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1855,
+						"y": 496,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Exit.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1855,
+						"y": 652,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Facebook.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1855,
+						"y": 808,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Fire.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1855,
+						"y": 964,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Google Plus.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1879,
+						"y": 1120,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Heart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1879,
+						"y": 1276,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Home.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 1593,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Increase.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1645,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Info.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 1645,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Instagram.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 1645,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Left Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 1645,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Like.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 1593,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Lock.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 937,
+						"y": 1593,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Menu.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1593,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Message.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1593,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Music.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1697,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Next Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1697,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Number.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1744,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Pause.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1873,
+						"y": 1744,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Picture.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 1749,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Play.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1801,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Previous Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 1801,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Profile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 1801,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Reload.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 1801,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Right Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 1749,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Settings.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 937,
+						"y": 1749,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Share.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1749,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Shopping Cart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1749,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Social.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1405,
+						"y": 1853,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Sound.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1853,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Casual Game GUI_Icon - Diamond.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 154,
+						"h": 144
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1900,
+						"w": 154,
+						"h": 144
+					}
+				}
+			]
+		},
+		{
+			"image": "GUI-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 936,
+				"h": 1248
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Button Pack - Green_Button Green - Star.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Trophy.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Twitter.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Up Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Green_Button Green - Video.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Attack.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 1,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Base.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Chat.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Close.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Decrease.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Down Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Exit.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 157,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Facebook.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Fire.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Google Plus.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Heart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Home.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Increase.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 313,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Info.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Instagram.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Left Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Like.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Lock.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Menu.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 469,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Message.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Music.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Next Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Number.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Pause.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Picture.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 625,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Play.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Previous Page.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Profile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Reload.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Right Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Settings.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 781,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Share.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Shopping Cart.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Social.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Sound.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 469,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Star.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 625,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Trophy.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 781,
+						"y": 937,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Twitter.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 1,
+						"y": 1093,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Up Arrow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 157,
+						"y": 1093,
+						"w": 154,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Button Pack - Red_Button Red - Video.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 154,
+						"h": 154
+					},
+					"frame": {
+						"x": 313,
+						"y": 1093,
+						"w": 154,
+						"h": 154
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:11cdf5536eded422d5e63db889b28104:b7624406af51ffcca39e55452753594a:28cc705f1bdaa4293407f58e85a6b368$"
+	}
+}

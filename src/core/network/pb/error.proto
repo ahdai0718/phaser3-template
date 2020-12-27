@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+enum ErrorCode {
+  EC_NONE = 0;
+
+  EC_SERVER_INTERNAL = 1;
+
+  EC_LOGIN_FAILED = 10001;
+
+  EC_ROOM_JOIN_FAILED_NOT_ENOUGH_CREDIT = 30001;
+  EC_ROOM_JOIN_FAILED_NOT_ALLOW = 30002;
+  EC_ROOM_JOIN_FAILED_FULL = 30003;
+  EC_ROOM_JOIN_FAILED_EXISTS = 30004;
+}
+
+enum ErrorAction {
+  EA_NONE = 0;
+  EA_CLOSE_CONNECTION = 1;
+}
+
+message Error {
+  ErrorCode code = 1;
+  string message = 2;
+  int64 timestamp = 3;
+  ErrorAction action = 4;
+}

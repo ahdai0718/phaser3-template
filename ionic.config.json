@@ -1,0 +1,7 @@
+{
+  "name": "Phaser3Template",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

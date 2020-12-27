@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+import "error.proto";
+
+enum RequestCommand {
+  RC_NONE = 0;
+
+  RC_ERROR = 1001;
+
+  RC_SERVER_INFO = 10001;
+  RC_SERVER_INFO_MAP_BY_NAME = 10002;
+
+  RC_PLAYER_INFO = 20001;
+  RC_PLAYER_DECK_INFO = 20002;
+
+  RC_ROOM_INFO = 30001;
+  RC_ROOM_INFO_MAP_BY_ID = 30002;
+  RC_ROOM_JOIN = 30003;
+  RC_ROOM_EXTEND_TIMEOUT_WAIT_FOR_PLAYER_DECK = 30004;
+}
+
+message Request {
+  RequestCommand command = 1;
+  bytes data = 2;
+  int64 timestamp = 3;
+  Error error = 4;
+}

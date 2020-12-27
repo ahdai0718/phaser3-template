@@ -1,0 +1,16 @@
+{
+  "Boot": [
+    {
+      "gameObjectName": "boot_background",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "gameObjectName": "company_logo",
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "Splash": [],
+  "UIMain": []
+}

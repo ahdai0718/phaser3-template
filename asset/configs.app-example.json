@@ -1,0 +1,17 @@
+{
+  "Title": "Phaser3Template",
+  "Width": 1280,
+  "Height": 720,
+  "BackgroundColor": "#000000",
+  "Asset": {
+    "BaseURL": "",
+    "BasePath": "/asset/skin/",
+    "Skin": "example"
+  },
+  "Gateway": {
+    "Protocol": "ws",
+    "Host": "192.168.50.108",
+    "Port": 3000,
+    "WebsocketRoutePath": "ws"
+  }
+}

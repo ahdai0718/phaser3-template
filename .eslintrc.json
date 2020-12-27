@@ -1,0 +1,16 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "./node_modules/gts"
+    ],
+    "globals": {
+        "__DEV__": "readonly",
+        "__DEBUG__": "readonly",
+        "__LOG_INFO__": "readonly",
+        "__LOG_WARNING__": "readonly",
+        "__LOG_ERROR__": "readonly"
+    }
+}

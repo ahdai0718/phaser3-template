@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+import "server_info.proto";
+
+import "gen_bq_schema/bq_table.proto";
+import "gen_bq_schema/bq_field.proto";
+
+enum RuntimeLogType {
+  RLT_NONE = 0;
+  RLT_INFO = 1;
+  RLT_WARNING = 2;
+  RLT_ERROR = 3;
+}
+
+message RuntimeLog {
+  option (gen_bq_schema.bigquery_opts).table_name = "runtime_log";
+  int64 type = 1 [ (gen_bq_schema.bigquery) = {require : false} ];
+  string file = 2 [ (gen_bq_schema.bigquery) = {require : false} ];
+  int64 line = 3 [ (gen_bq_schema.bigquery) = {require : false} ];
+  string message = 4 [ (gen_bq_schema.bigquery) = {require : false} ];
+  int64 time = 5 [ (gen_bq_schema.bigquery) = {require : false} ];
+  ServerInfo server_info = 6 [ (gen_bq_schema.bigquery) = {require : false} ];
+}

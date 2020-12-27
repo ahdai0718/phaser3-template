@@ -1,0 +1,60 @@
+{
+  "version": "2.0.0",
+  "echoCommand": true,
+  "tasks": [
+    {
+      "label": "Build All",
+      "dependsOn": [
+        "Build protobuf",
+        "Build gateway server",
+        "Build game server"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/cmd/server/gateway/"
+      },
+      "label": "Build gateway server",
+      "command": "./build.sh",
+      "group": "build",
+    },
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/cmd/server/game/"
+      },
+      "label": "Build game server",
+      "command": "./build.sh",
+      "group": "build",
+    },
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/internal/pkg/pb/"
+      },
+      "label": "Build protobuf",
+      "command": "./pb.sh",
+      "group": "build",
+    },
+    {
+      "options": {
+        "cwd": "${workspaceFolder}/cmd/server/gateway/"
+      },
+			"label": "Run race gateway server",
+      "command": "./race.sh",
+      "group": "test"
+    },
+    {
+      "type": "shell",
+      "options": {
+        "cwd": "${workspaceFolder}/cmd/server/game/"
+      },
+			"label": "Run race chinesepoker13 server",
+      "command": "./race.sh",
+      "group": "test"
+		},
+  ]
+}

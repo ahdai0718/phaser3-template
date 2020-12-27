@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+message Player {
+  string id = 1;
+  int64 sn = 2;
+  string name = 3;
+  string display_name = 4;
+  string platform = 5;
+  int64 credit = 6;
+  double balance = 7;
+  string currency = 8;
+}

@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package pb;
+
+option go_package = "g2gserverbase/internal/pkg/pb";
+
+enum ThirdParty {
+  TP_NONE = 0;
+  TP_FB = 1;
+}
+
+message LoginRequest {
+  string client_id = 1;
+  string third_party_id = 2;
+  ThirdParty third_party = 3;
+  string third_party_user_name = 4;
+  string third_party_picture_url = 5;
+  string ip_address = 6;
+  string country = 7;
+  string language = 8;
+  string phone_model = 9;
+  string os = 10;
+}
+
+message LoginResponse {
+  string aes_key = 1;
+  string aes_iv = 2;
+  string player_id = 3;
+}

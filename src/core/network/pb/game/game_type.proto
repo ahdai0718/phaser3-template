@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package pb.game;
+
+option go_package = "g2gserverbase/internal/pkg/pb/game";
+
+enum GameType {
+
+  GT_NONE = 0;
+
+  GT_EXAMPLE = 1;
+}
